@@ -1,4 +1,6 @@
 # Python Week 2 Coding Questions
+
+
 # Q1: Write a function to print "hello_USERNAME!"
 # USERNAME is the input of the function.
 def hello_name(user_name):
