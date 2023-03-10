@@ -1,4 +1,4 @@
-# Python Week 2 Coding Questions
+# Python Week 2 Coding Questions and answers.
 
 
 # Q1: Write a function to print "hello_USERNAME!"
